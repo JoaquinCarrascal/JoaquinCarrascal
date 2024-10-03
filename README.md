@@ -79,6 +79,6 @@
 
 <br clear="both">
 
-  <img src="https://raw.githubusercontent.com/JoaquinCarrascal/JoaquinCarrascal/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JoaquinCarrascal/JoaquinCarrascal/workflows/snake.yml" alt="Snake animation" />
 
 ###
