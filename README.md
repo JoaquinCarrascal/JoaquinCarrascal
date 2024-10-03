@@ -76,9 +76,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-  <img src="https://raw.githubusercontent.com/JoaquinCarrascal/JoaquinCarrascal/workflows/snake.yml" alt="Snake animation" />
-
-###
