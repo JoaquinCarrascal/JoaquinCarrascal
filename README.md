@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">🛠 Lenguajes y demás herramientas:</h3>
+<h3 align="left">🛠 Lenguajes , frameworks y demás herramientas:</h3>
 
 ###
 
