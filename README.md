@@ -75,6 +75,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinCarrascal&layout=donut&theme=vue-dark" height="220" alt="streak graph"  />
 </div>
 
-
 ###
 
+<br clear="both">
+
+  <img src="https://raw.githubusercontent.com/JoaquinCarrascal/JoaquinCarrascal/output/snake.svg" alt="Snake animation" />
+
+###
