@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">¡Muy buenas! Mi nombre es Joaquín Carrascal Franco, soy una persona apasionada por la tecnología y sobretodo por la programación<br><br>- 🔭 Me encuentro cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma un CFGS en el centro de Salesianos de San Pedro<br>- 📚 Actualmente estoy aprendiendo a desarrollar API's que interactúen con servicios web RESTful<br>- ⚡ Además estoy aprendiendo diferentes lenguajes y frameworks, tales como Java, JavaScript, Jquery, Spring, Angular, Python, SQL...</p>
+<p align="left">¡Muy buenas! Mi nombre es Joaquín Carrascal Franco, soy una persona apasionada por la tecnología y sobretodo por la programación<br><br>- 🔭 Me encuentro cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma un CFGS en el centro de Salesianos de San Pedro<br>- 📚 Actualmente estoy aprendiendo a desarrollar API's que interactúen con servicios web<br>- ⚡ Además estoy aprendiendo diferentes lenguajes y frameworks, tales como Java, JavaScript, Jquery, Spring, Angular, Python, SQL...</p>
 
 ###
 
