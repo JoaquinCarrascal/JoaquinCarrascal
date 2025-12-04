@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">¡Muy buenas! Mi nombre es Joaquín Carrascal Franco, soy un entusiasta de la programación y las nuevas tecnologías<br><br>- 🔭 Me encuentro cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma un CFGS en el centro de Salesianos de San Pedro<br>- 📚 Actualmente estoy aprendiendo a desarrollar API's REST con el framework Spring controlando su autenticación y autorización con Spring Security y JWS<br>- ⚡ Me encanta aprender cosas nuevas y ampliar conocimientos, siempre estoy abierto a ayudar</p>
+<p align="left">¡Muy buenas! Mi nombre es Joaquín Carrascal Franco, soy un entusiasta de la programación y las nuevas tecnologías<br><br>- 🔭 Principalmente me interesan temas relacionados con manejo de grandes volúmenes de datos y desarrollo backend con Spring, aunque trabajo con perfil Software Engineer Fullstack<br>- ⚡ Me encanta aprender cosas nuevas y ampliar conocimientos, siempre estoy abierto a ayudar</p>
 
 ###
 
